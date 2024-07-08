@@ -44,7 +44,7 @@ Multiple metrics were used to estimate how well the system predicts movies.
 - the MSE was used to evaluate the model predictions on the test set
 - the accuracy was used to evaluate in terms of the recommended movie (i.e. if, amongst the masked ratings, the recommended movie corresponds to (one of)* the favorite movie of the couple)
 
-* because the maximum rating of a couple can be obtained by multiple movies in the test set
+\* because the maximum rating of a couple can be obtained by multiple movies in the test set
 
 ### Conclusion
 

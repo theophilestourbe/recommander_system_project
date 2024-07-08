@@ -48,4 +48,4 @@ Multiple metrics were used to estimate how well the system predicts movies.
 
 ### Conclusion
 
-Collaborative filtering was used to estimate how a user would like a movie, based on his previous ratings, the features of each movie and the ratings of all the other users in the dataset. The learnt matrix `W` corresponds to how much a movie feature is important for the user to like the movie, and the bias `b` can be seen as the 'a priori' for a user when seeing a movie in general.
+Collaborative filtering was used to estimate how a user would like a movie, based on his previous ratings, the features of each movie and the ratings of all the other users in the dataset. The learnt matrix `W` corresponds to how much a movie feature is important for the user to like the movie, and the bias `b` can be seen as the 'a priori' for a user when rating a movie in general.
